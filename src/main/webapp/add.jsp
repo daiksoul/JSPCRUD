@@ -224,7 +224,7 @@
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="radio" value="warning" name="color" id="form-color6">
                     <label class="form-check-label card border-warning" for="form-color6">
-                        Red Card
+                        Yellow Card
                     </label>
                 </div>
             </div>
